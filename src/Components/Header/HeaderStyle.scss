@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(233, 140, 18);
+    color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+
+   
+    ul{
+        display: flex;
+        justify-content: space-around;
+        list-style: none;
+        align-items: center;
+        height: 5vh;
+       
+
+    }
+
+    li{
+        cursor: pointer;
+    }
+}
